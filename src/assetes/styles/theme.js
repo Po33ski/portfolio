@@ -1,0 +1,38 @@
+export const theme = {
+  colors: {
+    orange: "#FF6700",
+    backgroundColor: "#f8f8f8",
+    myGreen: "#1c7e75",
+    lightOrange: "#EDD6C1",
+    navyBlue: "#3F4456",
+    lightNavyBlue: "#555866",
+    greyBackground: "rgba(58, 58, 58, 0.7)",
+  },
+  fontSize: {
+    xxxl: "50px",
+    xxl: "42px",
+    xl: "24px",
+    l: "22px",
+    m: "18px",
+    s: "16px",
+  },
+  marginSize: {
+    smallMargin: "8px",
+    mediumMargin: "12px",
+    bigMargin: "18px",
+    xlMargin: "24px",
+    xxlMargin: "40px",
+    constainerXsMargin: "50px",
+    constainerSmallMargin: "75px",
+    containerMargin: "100px",
+    containerBigMargin: "150px",
+    sectionMargin: "200px",
+  },
+  paddingSize: {
+    smallPadding: "8px",
+    mediumPadding: "12px",
+    bigPadding: "18px",
+    xlPadding: "24px",
+    sectionPadding: "100px",
+  },
+}
