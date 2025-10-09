@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.a5e2d137.js",
+    "main.js": "/portfolio/static/js/main.cfcc5d45.js",
     "static/js/787.28cb0dcd.chunk.js": "/portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/shopClothes.png": "/portfolio/static/media/shopClothes.78f7b05fb1a4f02a2cbe.png",
+    "static/media/Jaroslaw_Popardowski_CV.pdf": "/portfolio/static/media/Jaroslaw_Popardowski_CV.4c1152043030ce50686c.pdf",
     "static/media/aboutMyPicture.jpg": "/portfolio/static/media/aboutMyPicture.1a657e2c5d3044e3e4a3.jpg",
-    "static/media/Jaroslaw_Popardowski_CV.pdf": "/portfolio/static/media/Jaroslaw_Popardowski_CV.37ab47f6ebef76c28558.pdf",
     "static/media/weatherChat.png": "/portfolio/static/media/weatherChat.a3131d5a07ebc550acd9.png",
     "static/media/mySecondPicture.jpg": "/portfolio/static/media/mySecondPicture.2b8c349ed98996d309a7.jpg",
     "static/media/terraform.png": "/portfolio/static/media/terraform.4baec593553f1eb64585.png",
@@ -32,10 +32,10 @@
     "static/media/downloadIcon.svg": "/portfolio/static/media/downloadIcon.59838e7c38b7d0c988609a6a49af59b6.svg",
     "static/media/terraform.svg": "/portfolio/static/media/terraform.f962112e7a818518edf9d88d1c1954cc.svg",
     "static/media/fastapi.svg": "/portfolio/static/media/fastapi.81dce7679a722c5d2e87fe83252c7bb7.svg",
-    "main.a5e2d137.js.map": "/portfolio/static/js/main.a5e2d137.js.map",
+    "main.cfcc5d45.js.map": "/portfolio/static/js/main.cfcc5d45.js.map",
     "787.28cb0dcd.chunk.js.map": "/portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.a5e2d137.js"
+    "static/js/main.cfcc5d45.js"
   ]
 }
