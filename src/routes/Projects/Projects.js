@@ -55,7 +55,7 @@ const projects = [
     id: "4",
     title: "RAG Chatbot",
     content: "This repository is a chatbot that uses RAG to answer questions. It contains 2 services. The first service is a chatbot that uses milvus vector database to anser questions related to fundamental knowledge of AI. The second service is also a chatbot but it uses postgres db (vectorscal db) and its created for searching through games on Steam. Project is currently in progress but you can clone the repo and run the services locally.",
-    stack: ["Python,", "Postgres,", "Milvus,", "AI", "Docker"],
+    stack: ["Python,", "Postgres,", "Milvus,", "Machine Learning,", "Docker"],
     githublink: "https://github.com/Po33ski/similarity_service/tree/main",
     websitelink: "",
     shoplink: "",
