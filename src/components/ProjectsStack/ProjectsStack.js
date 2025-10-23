@@ -38,7 +38,6 @@ const ProjectsStack = () => {
       <SvgsWrapper>
         <SvgElement svg={<DockerSVG />} title={"Docker"} />
         <SvgElement svg={<CIcdSVG />} title={"CI/CD"} />
-        <SvgElement svg={<TerraformSVG />} title={"Terraform"} />
         <SvgElement svg={<GitSVG />} title={"Git"} />
         <SvgElement svg={<AzureSVG />} title={"Azure"} />
       </SvgsWrapper>
@@ -46,6 +45,7 @@ const ProjectsStack = () => {
       <SvgsWrapper>
         <SvgElement svg={<JenkinsSVG />} title={"Jenkins"} />
         <SvgElement svg={<AwsSVG />} title={"AWS"} />
+        <SvgElement svg={<TerraformSVG />} title={"Terraform"} />
       </SvgsWrapper>
     </Wrapper>
   )

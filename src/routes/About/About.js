@@ -59,15 +59,19 @@ const About = ({ aboutRef }) => {
           </p>
           <p>
             I also have skills as a full-stack developer, using technologies such as Next.js, FastAPI, and TypeScript to build my applications.
-            I've been interested in DevOps and MLOps for a long time. 
+          </p>
+          <p>
+            I've been also interested in DevOps and MLOps for a long time. But my main focus is now on becoming a software developer.
+          </p>
+          <p>
             I developed these skills extensively during my studies at AGH in a field related to AI solutions and Software Architecture, which confirmed my knowledge in this area.
           </p>
           <p>
             I combine my programming skills with strong communication abilities and can work with clients in Polish, English, and German.
           </p>
           <p>
-            In my free time, I also deal with reading books, drawing, watching automotive
-            and technology news, exercising or enjoying a computer games or series.
+            In my free time, I also deal with reading books, watching automotive and technology related content,
+            exercising or enjoying a computer games or series.
           </p>
         </TextWrapper>
       </AboutWrapper>
