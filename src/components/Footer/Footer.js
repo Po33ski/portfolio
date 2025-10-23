@@ -19,7 +19,7 @@ const Footer = ({ toggleScrollToSection, homeRef, aboutRef, projectsRef }) => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://www.linkedin.com/in/jarosław-popardowski-21463a202"
+            href="https://www.linkedin.com/in/jaroslaw-popardowski-21463a202"
           >
             <LinkedinSvg />
           </a>
