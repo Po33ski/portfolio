@@ -14,7 +14,7 @@ import { ReactComponent as GitSVG } from "assetes/svgIcons/stackIcons/git.svg"
 import { ReactComponent as AzureSVG } from "assetes/svgIcons/stackIcons/azure.svg"
 import { ReactComponent as JenkinsSVG } from "assetes/svgIcons/stackIcons/jenkins.svg"
 import { ReactComponent as AwsSVG } from "assetes/svgIcons/stackIcons/aws.svg"
-
+import { ReactComponent as NodeJSSVG } from "assetes/svgIcons/stackIcons/nodejs.svg"
 import { Wrapper, SvgsWrapper } from "./ProjectsStack.styled"
 
 const ProjectsStack = () => {
@@ -33,6 +33,7 @@ const ProjectsStack = () => {
         <SvgElement svg={<ReactSVG />} title={"React"} />
         <SvgElement svg={<NextJSSVG />} title={"Next.js"} />
         <SvgElement svg={<FastAPISVG />} title={"FastAPI"} />
+        <SvgElement svg={<NodeJSSVG />} title={"Node"} />
       </SvgsWrapper>
       <h1>DevOps and MLOps Technologies</h1>
       <SvgsWrapper>

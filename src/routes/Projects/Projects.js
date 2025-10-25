@@ -24,8 +24,8 @@ const projects = [
   {
     id: "2",
     title: "E-commerce Application",
-    content: "It is a web application that allows users to browse and purchase products. It conatins a frontend and a backend. The frontend is built with Vite+React and the backend is built with simple REST API. It contains routing to Women, Men, Kids, and Accessories categories. The application also contains a shopping cart, and favorites list.",
-    stack: ["Vite,", "React,", "Tailwind CSS,", "REST API,", "JavaScript,", "HTML,", "CSS"],
+    content: "It is a web application that allows users to browse and purchase products. It conatins a frontend and a backend. The frontend is built with Vite+React and the backend is built with NodeJS and MongoDB. For storage of images, the application uses Azure Storage. It contains routing to Women, Men, Kids, and Accessories categories. It contains the admin panel for managing the products and orders. The application also contains a shopping cart, and favorites list. The application will be deployed on Azure Web App and Azure Storage. For now its not deployed but you can clone the repo and run the application locally.",
+    stack: ["Vite,", "React,", "Tailwind CSS,", "REST API,","NodeJS,", "MongoDB,","Azure Storage,", "JavaScript,", "HTML,", "CSS"],
     githublink: "https://github.com/Po33ski/Shop-Project.git",
     websitelink: "",
     shoplink: "",
