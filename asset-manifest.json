@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.da68e229.js",
+    "main.js": "/portfolio/static/js/main.9caca9ca.js",
     "static/js/787.28cb0dcd.chunk.js": "/portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/shopClothes.png": "/portfolio/static/media/shopClothes.78f7b05fb1a4f02a2cbe.png",
     "static/media/aboutMyPicture.jpg": "/portfolio/static/media/aboutMyPicture.1a657e2c5d3044e3e4a3.jpg",
-    "static/media/Jaroslaw_Popardowski_CV.pdf": "/portfolio/static/media/Jaroslaw_Popardowski_CV.732d7fd89960a171e783.pdf",
+    "static/media/Jaroslaw_Popardowski_CV.pdf": "/portfolio/static/media/Jaroslaw_Popardowski_CV.333f921aa43edfd93fa6.pdf",
     "static/media/weatherChat.png": "/portfolio/static/media/weatherChat.a3131d5a07ebc550acd9.png",
     "static/media/mySecondPicture.jpg": "/portfolio/static/media/mySecondPicture.2b8c349ed98996d309a7.jpg",
     "static/media/terraform.png": "/portfolio/static/media/terraform.4baec593553f1eb64585.png",
@@ -16,6 +16,7 @@
     "static/media/python.svg": "/portfolio/static/media/python.d0abe3ba55454572fa2b8f84be5cfb30.svg",
     "static/media/emailIcon.svg": "/portfolio/static/media/emailIcon.b66671765202d63ecc8a4070cdcc0d7e.svg",
     "static/media/nextJs.svg": "/portfolio/static/media/nextJs.b0cd4ec7d66b9048682c2d58d2a4008b.svg",
+    "static/media/nodejs.svg": "/portfolio/static/media/nodejs.502737ea1f44b9be4170cafd2bace4e7.svg",
     "static/media/cicd.svg": "/portfolio/static/media/cicd.a33630653afa30e8289d9c59f749a772.svg",
     "static/media/cpp.svg": "/portfolio/static/media/cpp.9e6a5650fc476fd529b57a89564c59e0.svg",
     "static/media/azure.svg": "/portfolio/static/media/azure.c6fb0578cc1be7235d919bc126e07563.svg",
@@ -32,10 +33,10 @@
     "static/media/downloadIcon.svg": "/portfolio/static/media/downloadIcon.59838e7c38b7d0c988609a6a49af59b6.svg",
     "static/media/terraform.svg": "/portfolio/static/media/terraform.f962112e7a818518edf9d88d1c1954cc.svg",
     "static/media/fastapi.svg": "/portfolio/static/media/fastapi.81dce7679a722c5d2e87fe83252c7bb7.svg",
-    "main.da68e229.js.map": "/portfolio/static/js/main.da68e229.js.map",
+    "main.9caca9ca.js.map": "/portfolio/static/js/main.9caca9ca.js.map",
     "787.28cb0dcd.chunk.js.map": "/portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.da68e229.js"
+    "static/js/main.9caca9ca.js"
   ]
 }
