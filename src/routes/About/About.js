@@ -58,7 +58,7 @@ const About = ({ aboutRef }) => {
             My current position involves resolving issues with Windows OS machines hosted in the cloud and analyzing the source code of Windows components.
           </p>
           <p>
-            I also have skills as a full-stack developer, using technologies such as Next.js, FastAPI, and TypeScript to build my applications.
+            I also have skills as a full-stack developer, using technologies such as Next.js, FastAPI, Next.js, and TypeScript to build my applications.
           </p>
           <p>
             I've been also interested in DevOps and MLOps for a long time. But my main focus is now on becoming a software developer.

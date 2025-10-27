@@ -25,7 +25,6 @@ const ProjectsStack = () => {
         <SvgElement svg={<PythonSVG />} title={"Python"} />
         <SvgElement svg={<JsSVG />} title={"JavaScript"} />
         <SvgElement svg={<TsSVG />} title={"TypeScript"} />
-        <SvgElement svg={<CppSVG />} title={"C++"} />
         <SvgElement svg={<SqlSVG />} title={"SQL"} />
       </SvgsWrapper>
       <h1>Full Stack Technologies</h1>
