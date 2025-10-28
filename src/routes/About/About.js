@@ -61,10 +61,6 @@ const About = ({ aboutRef }) => {
           I am familiar with a range of programming languages at different proficiency levels, but recently, I have been most focused on developing web applications and implementing AI solutions using Python and TypeScript.
           </p>
           <p>
-          I love learning new technologies and solutions, as well as teaching others what I already know. 
-          In my current job, I enjoy occasionally sharing my knowledge of our technologies by training new employees.
-          </p> 
-          <p>
           I'm currently focused on a career transition into a Software Developer role.
           I am very eager to work as a full-time programmer because I know that writing code and designing applications is something that brings me great joy.
           </p>
