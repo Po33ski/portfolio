@@ -54,24 +54,34 @@ const About = ({ aboutRef }) => {
         <TextWrapper>
           <h1>Jarek Popardowski</h1>
           <p>
-            In my work, I enjoy creating and testing application logic and solving advanced software problems. 
-            My current position involves resolving issues with Windows OS machines hosted in the cloud and analyzing the source code of Windows components.
+          In my current role, I am primarily responsible for resolving issues related to the installation, updates, and upgrades of Windows systems across various environments.
           </p>
           <p>
-            I also have skills as a full-stack developer, using technologies such as Next.js, FastAPI, Next.js, and TypeScript to build my applications.
+          Privately, I am a dedicated programming enthusiast, interested in this field for many years. 
+          I am familiar with a range of programming languages at different proficiency levels, but recently, I have been most focused on developing web applications and implementing AI solutions using Python and TypeScript.
           </p>
           <p>
-            I've been also interested in DevOps and MLOps for a long time. But my main focus is now on becoming a software developer.
+          I love learning new technologies and solutions, as well as teaching others what I already know. 
+          In my current job, I enjoy occasionally sharing my knowledge of our technologies by training new employees.
+          </p> 
+          <p>
+          I'm currently focused on a career transition into a Software Developer role.
+          I am very eager to work as a full-time programmer because I know that writing code and designing applications is something that brings me great joy.
           </p>
           <p>
-            I developed these skills extensively during my studies at AGH in a field related to AI solutions and Software Architecture, which confirmed my knowledge in this area.
+          My current role has taught me not only how to thoroughly analyze code and logs but also how to react effectively in critical situations. Every day, I am involved in problem-solving and testing new solutions. 
+          These skills are very beneficial to my programming efforts as they have instilled patience and critical thinking.
           </p>
           <p>
-            I combine my programming skills with strong communication abilities and can work with clients in Polish, English, and German.
+          Additionally, I hold a postgraduate degree from the Faculty of Computer Science at AGH University of Science and Technology in Kraków. 
+          The specialization I studied there provided me with many practical skills related to implementing AI systems, software architecture, application design, as well as some fundamentals of DevOps and MLOps. 
+          My final project involved implementing an AI agent system designed to help users find a suitable car, utilizing the cutting-edge solutions I learned throughout my studies.
           </p>
           <p>
-            In my free time, I also deal with reading books, watching automotive and technology related content,
-            exercising or enjoying a computer games or series.
+          In my free time, I enjoy reading books, watching automotive and technology-related content, working out, and spending time with my family and friends.
+          </p>
+          <p>
+          Below is more information about me and my technical skills.
           </p>
         </TextWrapper>
       </AboutWrapper>
