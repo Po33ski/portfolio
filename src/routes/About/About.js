@@ -59,6 +59,7 @@ const About = ({ aboutRef }) => {
           <p>
           Privately, I am a dedicated programming enthusiast, interested in this field for many years. 
           I am familiar with a range of programming languages at different proficiency levels, but recently, I have been most focused on developing web applications and implementing AI solutions using Python and TypeScript.
+          I took part in a various frontend and fullstack projects as a freelance developer.
           </p>
           <p>
           I'm currently focused on a career transition into a Software Developer role.
@@ -70,8 +71,7 @@ const About = ({ aboutRef }) => {
           </p>
           <p>
           Additionally, I hold a postgraduate degree from the Faculty of Computer Science at AGH University of Science and Technology in Kraków. 
-          The specialization I studied there provided me with many practical skills related to implementing AI systems, software architecture, application design, as well as some fundamentals of DevOps and MLOps. 
-          My final project involved implementing an AI agent system designed to help users find a suitable car, utilizing the cutting-edge solutions I learned throughout my studies.
+          The specialization I studied there provided me with many practical skills related to implementing AI systems, software architecture, MLOps, as well as some fundamentals of DevOps.
           </p>
           <p>
           In my free time, I enjoy reading books, watching automotive and technology-related content, working out, and spending time with my family and friends.

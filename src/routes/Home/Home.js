@@ -14,7 +14,7 @@ const HomePage = ({ homeRef }) => {
           I am an Azure Cloud engineer with experience working for Microsoft.
         </p>
         <p>
-          I also have skills as an AI and Software Architecture engineer with experience gained at AGH University of Science and Technology. 
+          I also have skills as an AI and Software Architecture engineer with experience gained at AGH University of Science and Technology and working sporadically as a freelance developer. 
         </p>
         <p>
           Currently I am looking for an opportunity to change my career path and become a software developer.
