@@ -11,7 +11,7 @@ const HomePage = ({ homeRef }) => {
         <h1>Hi, my name is Jarek</h1>
         <h4>I am a software developer</h4>
         <p>
-          I am an Azure Cloud engineer with experience working for Microsoft.
+          I am also an Azure Cloud engineer with experience working for Microsoft.
         </p>
         <p>
           I also have skills as an AI and Software Architecture engineer with experience gained at AGH University of Science and Technology and working sporadically as a freelance developer. 
