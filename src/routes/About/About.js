@@ -62,7 +62,7 @@ const About = ({ aboutRef }) => {
           I took part in a various frontend and fullstack projects as a freelance developer.
           </p>
           <p>
-          I'm currently focused on a career transition into a Software Developer role.
+          I'm currently focused on a career transition into an AI Software Developer role.
           I am very eager to work as a full-time programmer because I know that writing code and designing applications is something that brings me great joy.
           </p>
           <p>
@@ -70,7 +70,7 @@ const About = ({ aboutRef }) => {
           These skills are very beneficial to my programming efforts as they have instilled patience and critical thinking.
           </p>
           <p>
-          Additionally, I hold a postgraduate degree from the Faculty of Computer Science at AGH University of Science and Technology in Kraków. 
+          Additionally, I hold a postgraduate degree from the Faculty of Computer Science at AGH University of Science and Technology in Krakow. 
           The specialization I studied there provided me with many practical skills related to implementing AI systems, software architecture, MLOps, as well as some fundamentals of DevOps.
           </p>
           <p>
