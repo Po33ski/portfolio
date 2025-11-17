@@ -54,15 +54,14 @@ const About = ({ aboutRef }) => {
         <TextWrapper>
           <h1>Jarek Popardowski</h1>
           <p>
-          In my current role, I am primarily responsible for resolving issues related to the installation, updates, and upgrades of Windows systems across various environments.
+          In my current role, I am primarily responsible for resolving issues related to the Azure Cloud and Window Server systems.
           </p>
           <p>
           Privately, I am a dedicated programming enthusiast, interested in this field for many years. 
-          I am familiar with a range of programming languages at different proficiency levels, but recently, I have been most focused on developing web applications and implementing AI solutions using Python and TypeScript.
-          I took part in a various frontend and fullstack projects as a freelance developer.
+          I am familiar with a range of programming languages at different proficiency levels, but recently, I have been most focused on Machine Learning and implementing AI solutions using Python and TypeScript.
           </p>
           <p>
-          I'm currently focused on a career transition into an AI Software Developer role.
+          I'm currently focused on a career transition into an AI Engineer role.
           I am very eager to work as a full-time programmer because I know that writing code and designing applications is something that brings me great joy.
           </p>
           <p>
