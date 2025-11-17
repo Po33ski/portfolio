@@ -1,21 +1,17 @@
 {
   "files": {
-    "main.js": "./static/js/main.94612163.js",
+    "main.js": "./static/js/main.137f324a.js",
     "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
-    "static/media/shopClothes.png": "./static/media/shopClothes.78f7b05fb1a4f02a2cbe.png",
     "static/media/aboutMyPicture.jpg": "./static/media/aboutMyPicture.1a657e2c5d3044e3e4a3.jpg",
     "static/media/Jaroslaw_Popardowski_CV.pdf": "./static/media/Jaroslaw_Popardowski_CV.4abe8e10899bd412ea39.pdf",
     "static/media/weatherChat.png": "./static/media/weatherChat.a3131d5a07ebc550acd9.png",
     "static/media/mySecondPicture.jpg": "./static/media/mySecondPicture.2b8c349ed98996d309a7.jpg",
-    "static/media/terraform.png": "./static/media/terraform.4baec593553f1eb64585.png",
     "static/media/ragService.png": "./static/media/ragService.1ed646776dbb41cea632.png",
     "static/media/react.svg": "./static/media/react.f57b349b4d9df56c9b48c916a8d5adfb.svg",
-    "static/media/aws.svg": "./static/media/aws.f040f62a28bfcb9f6e4dbbf565e49737.svg",
     "static/media/githubSVG.svg": "./static/media/githubSVG.2f4d20313e2b67bf0ab394d0ef3c9975.svg",
     "static/media/python.svg": "./static/media/python.d0abe3ba55454572fa2b8f84be5cfb30.svg",
     "static/media/emailIcon.svg": "./static/media/emailIcon.b66671765202d63ecc8a4070cdcc0d7e.svg",
     "static/media/nextJs.svg": "./static/media/nextJs.b0cd4ec7d66b9048682c2d58d2a4008b.svg",
-    "static/media/nodejs.svg": "./static/media/nodejs.502737ea1f44b9be4170cafd2bace4e7.svg",
     "static/media/cicd.svg": "./static/media/cicd.a33630653afa30e8289d9c59f749a772.svg",
     "static/media/azure.svg": "./static/media/azure.c6fb0578cc1be7235d919bc126e07563.svg",
     "static/media/sql.svg": "./static/media/sql.78dbae2d02545ca6956934b26618ffad.svg",
@@ -29,12 +25,11 @@
     "static/media/websiteSVG.svg": "./static/media/websiteSVG.d620b3cf281789e1ffa86bf8bf00724f.svg",
     "static/media/googlePlaySVG.svg": "./static/media/googlePlaySVG.ef345da22e06b00f31bc3f260933e830.svg",
     "static/media/downloadIcon.svg": "./static/media/downloadIcon.59838e7c38b7d0c988609a6a49af59b6.svg",
-    "static/media/terraform.svg": "./static/media/terraform.f962112e7a818518edf9d88d1c1954cc.svg",
     "static/media/fastapi.svg": "./static/media/fastapi.81dce7679a722c5d2e87fe83252c7bb7.svg",
-    "main.94612163.js.map": "./static/js/main.94612163.js.map",
+    "main.137f324a.js.map": "./static/js/main.137f324a.js.map",
     "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.94612163.js"
+    "static/js/main.137f324a.js"
   ]
 }
